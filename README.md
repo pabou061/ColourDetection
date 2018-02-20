@@ -7,7 +7,7 @@ This code takes a video to detect specific colours in the video and show the coo
 
 Used openCV library in Python
 
-#Result
+# Result
 
 source video: videos/video1.mp4
 result video: result.avi
