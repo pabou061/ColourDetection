@@ -11,4 +11,5 @@ Used openCV library in Python
 # Result
 
 source video: videos/video1.mp4
+
 result video: result.avi
